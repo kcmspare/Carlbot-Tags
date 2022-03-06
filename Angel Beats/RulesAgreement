@@ -1,0 +1,5 @@
+{
+    "color":12675939,
+    "type":"rich",
+    "title":"***By joining this server, you agree to follow these rules to the fullest extent possible.***"
+}
