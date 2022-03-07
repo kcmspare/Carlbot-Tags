@@ -1,0 +1,10 @@
+{
+    "image":{
+        "url":"https:\/\/cdn.discordapp.com\/attachments\/943131242080116736\/948845952654000148\/channels.png",
+        "proxy_url":"https:\/\/media.discordapp.net\/attachments\/943131242080116736\/948845952654000148\/channels.png",
+        "width":3000,
+        "height":1000
+    },
+    "color":16773826,
+    "type":"rich"
+}
