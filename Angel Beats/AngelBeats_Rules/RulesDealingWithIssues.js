@@ -1,6 +1,0 @@
-{
-    "color":12675939,
-    "type":"rich",
-    "description":"If you have any issues or concerns, you may contact any member of the <@&933085846549200897>, however, it is best you try and contact a member of the <@&935297824403357706> *first*. They are the ones that are closest to the community and deal with the majority of issues.\n\nIf you are unable to get into contact with any member of the Disciplinary Committee, you may ping a member of the <@&935297556223762493>. If believe a punishment has been administered unjustly or have other issues that don't relate to the Disciplinary Committee, you may contact a member of the Faculty Committee.\n\nWe are hoping to create a safe and inviting environment. However, there could be an occasion where things may get out of hand unintentionally. As such, we will typically warn with a verbal warning that isn't recorded, or a, \"Alright, chill out.\"\n\nDepending on the severity of the action committed, punishments may vary and increase, ranging from just a DM, timeouts, or an outright ban without warning.\n\nWe don't want to ban anyone from the server, but please do not take advantage of the staff team and do not intentionally cause trouble.",
-    "title":"__Dealing With Issues & How The Staff Team Deals With Issues:__"
-}
