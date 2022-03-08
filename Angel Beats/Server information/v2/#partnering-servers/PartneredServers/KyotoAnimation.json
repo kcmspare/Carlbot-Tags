@@ -1,0 +1,17 @@
+{
+    "image":{
+        "url":"https:\/\/cdn.discordapp.com\/attachments\/856658928686727200\/934084389275582535\/Test.png",
+        "proxy_url":"https:\/\/media.discordapp.net\/attachments\/856658928686727200\/934084389275582535\/Test.png",
+        "width":1243,
+        "height":513
+    },
+    "thumbnail":{
+        "url":"https:\/\/cdn.discordapp.com\/attachments\/856658928686727200\/934085074176049213\/KyoAni_Logo_Discord.png",
+        "proxy_url":"https:\/\/media.discordapp.net\/attachments\/856658928686727200\/934085074176049213\/KyoAni_Logo_Discord.png",
+        "width":370,
+        "height":394
+    },
+    "color":14916863,
+    "type":"rich",
+    "description":"Kyoto Animation is a renowned and beloved animation studio from Uji, Japan, responsible for popular classics like Clannad, A Silent Voice, K-ON! and Violet Evergarden. The Kyoto Animation Discord serves as a community for fans of the studio to gather and share their love of everything KyoAni!"
+}
