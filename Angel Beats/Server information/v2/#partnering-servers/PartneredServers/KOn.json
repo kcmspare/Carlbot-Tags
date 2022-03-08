@@ -1,0 +1,17 @@
+{
+    "image":{
+        "url":"https:\/\/cdn.discordapp.com\/attachments\/915195724201881610\/934060484808818738\/K_ON_Banner.png",
+        "proxy_url":"https:\/\/media.discordapp.net\/attachments\/915195724201881610\/934060484808818738\/K_ON_Banner.png",
+        "width":1280,
+        "height":720
+    },
+    "thumbnail":{
+        "url":"https:\/\/cdn.discordapp.com\/attachments\/727293343838765104\/890638257866551316\/Server-Icon-Text_250px.gif",
+        "proxy_url":"https:\/\/media.discordapp.net\/attachments\/727293343838765104\/890638257866551316\/Server-Icon-Text_250px.gif",
+        "width":250,
+        "height":250
+    },
+    "color":16312092,
+    "type":"rich",
+    "description":"Four high school girls join the light music club of the all-girls private Sakuragaoka High School. From then on, Yui, along the bassist Mio Akiyama, drummer Ritsu Tainaka, and keyboardist Tsumugi Kotobuki spend their school days practicing, performing, and hanging out together."
+}

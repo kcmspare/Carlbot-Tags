@@ -1,0 +1,15 @@
+{
+    "footer":{
+        "text":"Keep in mind that we generally partner with anime\/manga\/light novel-oriented servers. We also will briefly look at your server to see if it's fit for partnership."
+    },
+    "image":{
+        "url":"https:\/\/cdn.discordapp.com\/attachments\/933131629487079435\/948844489051607040\/bottom_bar.png",
+        "proxy_url":"https:\/\/media.discordapp.net\/attachments\/933131629487079435\/948844489051607040\/bottom_bar.png",
+        "width":800,
+        "height":6
+    },
+    "color":131586,
+    "type":"rich",
+    "description":"If you're a staff member of a server and want to partner with us, you can reach us by use of the ??suggest command.\n\nTo use the command, type in any channel `??suggest [Your request for partnership and Discord invite`.\n\nAt that point, you're done! A thread will be created for your request to enable discussion. You're welcome to participate! A <@&933085846549200897> majority is needed for approval.\n\nIf you get accepted, we will ask for a banner, icon, permanent server invite, and description.",
+    "title":"__How To Partner With Us:__"
+}
